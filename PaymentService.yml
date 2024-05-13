@@ -1,6 +1,6 @@
       
 server: 
-  port: 8085
+  port: 9090
   servlet:
     context-path: /api/integration   
     
